@@ -27,5 +27,9 @@
 -->
 
 <AlloySmelterRecipes>
-
+	<vanillaFurnaceRecipes>
+		<exclude>
+			<itemStack modID="railcraft" itemName="fluid_bottle_creosote" />
+		</exclude>
+	<vanillaFurnaceRecipes>
 </AlloySmelterRecipes>

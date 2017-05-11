@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Thu May 04 23:25:54 CDT 2017",
+  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Thu May 11 00:06:25 CDT 2017",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "Default",
-  "modNames": "Actually Additions:1.10.2-r105, Advanced Generators:0.9.20.23, Advanced Machines:60.0.2, Advanced Solar Panels:4.0.4, Akashic Tome:1.0-5, AppleCore:2.1.2, ArchitectureCraft:1.7.1, Aroma1997\u0027s Dimensional World:1.0, Aroma1997Core:${version}, Aroma1997Core|Helper:1.1.1.2, AutoRegLib:1.0-2, BD Lib:1.12.4.24, Bed Bugs:@VERSION@, BetterFonts:1.5.3, Biomes O\u0027 Plenty:5.0.0.2162, CT-GUI:1.0.0, Chameleon:1.10-2.2.2, Chance Cubes:1.10.2-2.3.6.176, Chisel:MC1.10.2-0.0.10.22, Chisels \u0026 Bits:12.12, CoFH ASM:000, CoFH Core:4.1.1, CodeChicken Lib:2.5.8.255, Cooking for Blockheads:4.2.43, CraftTweaker JEI Support:1.0.1, Custom Main Menu:2.0.5, ET Lunar:1.10.2-0.10.6a, Elevator Mod:1.3.0, Ender IO:1.10.2-3.1.186, EnderCore:1.10.2-0.4.1.66-beta, Energy Converters:1.0, Engineer\u0027s Workshop:1.3.2-1.10.2, Environmental Tech:1.10.2-0.10.6b, Extra Bit Manipulation:1.10.2-2.3.4, FTBLib:0.0.0, FluxedRedstone:@MODVERSION@, FoamFix:@VERSION@, FoamFixCore:7.7.4, Forestry:5.2.17.376, Forge Microblocks:2.0.0.31, Forge Mod Loader:8.0.99.99, Forge Multipart CBE:2.0.0.31, Gravestone:1.5.12, Hardcore Darkness:1.9, Hardcore Questing Mode:1.10.2-5.1.0alpha4, Hardcore Wither:2.2.3, HelpFixer:1.0, Immersive Engineering:0.10-57, IndustrialCraft 2:2.6.188-ex110, Inventory Tweaks:1.61-58-a1fd884, Iron Backpacks:1.10.2-2.2.25, Iron Chest:1.10.2-7.0.12.801, JourneyMap:1.10.2-5.4.6, Just Enough Items:3.14.7.419, MCMultiPart:1.4.0, MTLib:@VERSION@, Mantle:1.10.2-1.1.5.205, MineTweaker 3:3.0.24, MineTweakerRecipeMaker:1.2.1.26, Minecraft Coder Pack:9.19, Minecraft Forge:12.18.3.2281, Minecraft Multipart Plugin:2.0.0.31, Mod Tweaker:2.0.11, Morph-o-Tool:1.0-12, Morpheus:1.10.2-3.1.13, Mouse Tweaks:2.8, MrTJPCore:2.0.0.17, Natura:1.10.2-4.1.0.53, OMLib:3.0.0-67, Open Modular Passive Defense:3.0.0-21, Open Modular Turrets:1.10.2-3.0.0-121, Packing Tape:0.6.0, Pam\u0027s HarvestCraft:1.9.4-1.10.2g, Platforms:1.2.10, Practical Logistics 2:2.0.2, Progressive Automation:1.7.4, RFTools Control:1.6.8, RFTools:6.00, Railcraft:10.1.1, RebornCore:2.13.5.136, Refined Relocation:@VERSION@, Resource Loader:1.5.1, Router Reborn Lib:1.10.2-4.0.1.62_universal, Router Reborn:1.10.2-4.0.1.62_universal, ShetiPhian-Core:3.3.8, Snad:1.10.2-1.6.09.20a, SonarCore:3.2.7, Storage Drawers:1.10.2-3.7.3, TOP Addons:1.10.2-0.12.0, The One Probe:1.4.6, The Spice of Life:1.3.8, Thermal Expansion:5.0.4, Thermal Foundation:2.0.5, Tinkers\u0027 Construct:1.10.2-2.6.3.500, Valkyrie Lib:1.10.2-0.10.6, WorldEdit CUI Forge Edition:1.0.7, WorldEdit:6.1.4, XNet:1.3.1, YABBA:1.10.2-0.5.0, ccl-entityhook:1.0, mob_grinding_utils:0.1.8.17, reborncore-MCMultiPart:2.13.5.136, §3Dynamic Surroundings:3.4.0.0, §3Presets!:3.4.0.0",
+  "modNames": "Actually Additions:1.10.2-r105, Advanced Generators:0.9.20.23, Advanced Machines:60.0.2, Advanced Solar Panels:4.0.4, Akashic Tome:1.0-5, AppleCore:2.1.2, ArchitectureCraft:1.7.1, Aroma1997\u0027s Dimensional World:1.0, Aroma1997Core:${version}, Aroma1997Core|Helper:1.1.1.2, AutoRegLib:1.0-2, BD Lib:1.12.4.24, Bed Bugs:@VERSION@, BetterFonts:1.5.3, Biomes O\u0027 Plenty:5.0.0.2162, CT-GUI:1.0.0, Chameleon:1.10-2.2.2, Chance Cubes:1.10.2-2.3.6.176, Chisel:MC1.10.2-0.0.10.22, Chisels \u0026 Bits:12.12, CoFH ASM:000, CoFH Core:4.1.1, CodeChicken Lib:2.5.8.255, Cooking for Blockheads:4.2.43, CraftTweaker JEI Support:1.0.1, Custom Main Menu:2.0.5, ET Lunar:1.10.2-0.10.6a, Elevator Mod:1.3.0, Ender IO:1.10.2-3.1.186, Ender Zoo:1.10-1.2.3.44, EnderCore:1.10.2-0.4.1.66-beta, Energy Converters:1.0, Engineer\u0027s Workshop:1.3.3-1.10.2, Environmental Tech:1.10.2-0.10.6b, Extra Bit Manipulation:1.10.2-2.3.4, FTBLib:0.0.0, FluxedRedstone:@MODVERSION@, FoamFix:@VERSION@, FoamFixCore:7.7.4, Forestry:5.2.17.376, Forge Microblocks:2.0.0.31, Forge Mod Loader:8.0.99.99, Forge Multipart CBE:2.0.0.31, Gravestone:1.5.12, Hardcore Darkness:1.9, Hardcore Questing Mode:1.10.2-5.1.0alpha4, Hardcore Wither:2.2.3, HelpFixer:1.0, Immersive Engineering:0.10-58, IndustrialCraft 2:2.6.188-ex110, Inventory Tweaks:1.61-58-a1fd884, Iron Backpacks:1.10.2-2.2.26, Iron Chest:1.10.2-7.0.12.801, JourneyMap:1.10.2-5.4.6, Just Enough Items:3.14.7.419, MCMultiPart:1.4.0, MTLib:@VERSION@, Mantle:1.10.2-1.1.5.205, MineTweaker 3:3.0.24, MineTweakerRecipeMaker:1.2.1.26, Minecraft Coder Pack:9.19, Minecraft Forge:12.18.3.2281, Minecraft Multipart Plugin:2.0.0.31, Mod Tweaker:2.0.12, Morph-o-Tool:1.0-12, Morpheus:1.10.2-3.1.13, Mouse Tweaks:2.8, MrTJPCore:2.0.0.17, Natura:1.10.2-4.1.0.56, OMLib:3.0.0-67, Open Modular Passive Defense:3.0.0-21, Open Modular Turrets:1.10.2-3.0.0-124, Packing Tape:0.6.0, Pam\u0027s HarvestCraft:1.9.4-1.10.2g, Platforms:1.2.10, Practical Logistics 2:2.0.2, Progressive Automation:1.7.4, RFTools Control:1.6.8, RFTools:6.00, Railcraft:10.1.1, RebornCore:2.13.5.136, Refined Relocation:@VERSION@, Resource Loader:1.5.1, Router Reborn:1.10.2-4.0.1.80_universal, RouterReborn Lib:1.10.2-0.0.2.105, ShetiPhian-Core:3.3.8, Snad:1.10.2-1.6.09.20a, SonarCore:3.2.7, Steve\u0027s Factory Manager:1.0.12, Storage Drawers:1.10.2-3.7.4, TOP Addons:1.10.2-0.13.0, The One Probe:1.4.6, The Spice of Life:1.3.8, Thermal Expansion:5.0.4, Thermal Foundation:2.0.5, Tinkers\u0027 Construct:1.10.2-2.6.3.500, Valkyrie Lib:1.10.2-0.10.6, WorldEdit CUI Forge Edition:1.0.7, WorldEdit:6.1.4, XNet:1.3.1, YABBA:1.10.2-0.5.1, ccl-entityhook:1.0, mob_grinding_utils:0.1.8.18, reborncore-MCMultiPart:2.13.5.136, §3Dynamic Surroundings:3.4.1.0, §3Presets!:3.4.1.0",
   "blockColors": [
     {
       "uid": "actuallyadditions:blockAtomicReconstructor",
@@ -11592,6 +11592,27 @@ var colorpalette={
       ]
     },
     {
+      "uid": "enderzoo:blockConcussionCharge",
+      "name": "Concussion Charge",
+      "color": "#4f5651",
+      "alpha": 1.0,
+      "meta": 1
+    },
+    {
+      "uid": "enderzoo:blockConfusingCharge",
+      "name": "Confusing Charge",
+      "color": "#4cae73",
+      "alpha": 1.0,
+      "meta": 1
+    },
+    {
+      "uid": "enderzoo:blockEnderCharge",
+      "name": "Ender Charge",
+      "color": "#458579",
+      "alpha": 1.0,
+      "meta": 1
+    },
+    {
       "uid": "energyconverters:energy_consumer_eu",
       "name": "EV Energy Consumer (IC2)",
       "color": "#857166",
@@ -19003,9 +19024,9 @@ var colorpalette={
           "meta": 5
         },
         {
-          "name": "Razor Wire",
+          "name": "Engineer\u0027s Toolbox",
           "color": "#ffffff",
-          "meta": 5
+          "meta": 6
         }
       ]
     },
@@ -19045,6 +19066,11 @@ var colorpalette={
           "name": "Fluid Pump",
           "color": "#ffffff",
           "meta": 5
+        },
+        {
+          "name": "Fluid Outlet",
+          "color": "#818181",
+          "meta": 6
         }
       ]
     },
@@ -19109,6 +19135,11 @@ var colorpalette={
           "name": "Gun Turret",
           "color": "#5e5248",
           "meta": 11
+        },
+        {
+          "name": "Garden Cloche",
+          "color": "#72615b",
+          "meta": 13
         }
       ]
     },
@@ -19222,6 +19253,11 @@ var colorpalette={
           "meta": 4
         },
         {
+          "name": "Uranium Sheetmetal",
+          "color": "#4f7252",
+          "meta": 5
+        },
+        {
           "name": "Constantan Sheetmetal",
           "color": "#db664c",
           "meta": 6
@@ -19235,6 +19271,11 @@ var colorpalette={
           "name": "Iron Sheetmetal",
           "color": "#b2b2b2",
           "meta": 9
+        },
+        {
+          "name": "Gold Sheetmetal",
+          "color": "#a98e2e",
+          "meta": 10
         }
       ]
     },
@@ -19271,6 +19312,11 @@ var colorpalette={
           "meta": 4
         },
         {
+          "name": "Uranium Sheetmetal Slab",
+          "color": "#4f7252",
+          "meta": 5
+        },
+        {
           "name": "Constantan Sheetmetal Slab",
           "color": "#db664c",
           "meta": 6
@@ -19284,6 +19330,11 @@ var colorpalette={
           "name": "Iron Sheetmetal Slab",
           "color": "#b2b2b2",
           "meta": 9
+        },
+        {
+          "name": "Gold Sheetmetal Slab",
+          "color": "#a98e2e",
+          "meta": 10
         }
       ]
     },
@@ -19415,10 +19466,10 @@ var colorpalette={
     },
     {
       "uid": "immersiveengineering:stoneDevice",
-      "name": "Coke Oven",
+      "name": "Concrete Chunk",
       "color": "#474747",
       "alpha": 1.0,
-      "meta": 0,
+      "meta": 5,
       "variants": [
         {
           "name": "Crude Blast Furnace",
@@ -19426,9 +19477,14 @@ var colorpalette={
           "meta": 1
         },
         {
-          "name": "Improved Blast Furnace",
+          "name": "Concrete Sheet",
+          "color": "#776d66",
+          "meta": 3
+        },
+        {
+          "name": "Core Sample",
           "color": "#ffffff",
-          "meta": 2
+          "meta": 6
         }
       ]
     },
@@ -19606,7 +19662,7 @@ var colorpalette={
         },
         {
           "name": "Item Router",
-          "color": "#4b4745",
+          "color": "#524e4c",
           "meta": 3
         },
         {
@@ -19623,6 +19679,11 @@ var colorpalette={
           "name": "Turntable",
           "color": "#664738",
           "meta": 6
+        },
+        {
+          "name": "Fluid Router",
+          "color": "#4b4745",
+          "meta": 7
         }
       ]
     },
@@ -25050,7 +25111,7 @@ var colorpalette={
       "variants": [
         {
           "color": "#7b705e",
-          "meta": 3
+          "meta": 1
         },
         {
           "color": "#786d5b",
@@ -26090,13 +26151,6 @@ var colorpalette={
       "meta": 5
     },
     {
-      "uid": "routerreborn:rr_orecopper",
-      "name": "Copper Ore",
-      "color": "#877d6b",
-      "alpha": 1.0,
-      "meta": 0
-    },
-    {
       "uid": "routerreborn:rr_pulverizer",
       "name": "Electric Pulverizer",
       "color": "#62626c",
@@ -26592,6 +26646,138 @@ var colorpalette={
       "color": "#868434",
       "alpha": 1.0,
       "meta": 0
+    },
+    {
+      "uid": "stevesfactorymanager:BlockCableBUDName",
+      "name": "Block Detector",
+      "color": "#232728",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "stevesfactorymanager:BlockCableBreakerName",
+      "name": "Block Gate",
+      "color": "#313031",
+      "alpha": 1.0,
+      "meta": 5,
+      "variants": [
+        {
+          "color": "#333230",
+          "meta": 1
+        },
+        {
+          "color": "#38372e",
+          "meta": 1
+        },
+        {
+          "color": "#2b2a33",
+          "meta": 5
+        }
+      ]
+    },
+    {
+      "uid": "stevesfactorymanager:BlockCableCamouflageName",
+      "name": "Transforming Cable Camouflage",
+      "color": "#313035",
+      "alpha": 1.0,
+      "meta": 2
+    },
+    {
+      "uid": "stevesfactorymanager:BlockCableClusterName",
+      "name": "Advanced Cable Cluster",
+      "color": "#313035",
+      "alpha": 1.0,
+      "meta": 13
+    },
+    {
+      "uid": "stevesfactorymanager:BlockCableCreativeName",
+      "name": "Creative Supplier",
+      "color": "#463933",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "stevesfactorymanager:BlockCableInputName",
+      "name": "Redstone Receiver",
+      "color": "#2f252e",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "stevesfactorymanager:BlockCableIntakeName",
+      "name": "Rapid Item Valve",
+      "color": "#313034",
+      "alpha": 1.0,
+      "meta": 13,
+      "variants": [
+        {
+          "name": "Item Valve",
+          "color": "#24232b",
+          "meta": 1
+        },
+        {
+          "name": "Item Valve",
+          "color": "#2e2d36",
+          "meta": 5
+        },
+        {
+          "color": "#27262a",
+          "meta": 9
+        }
+      ]
+    },
+    {
+      "uid": "stevesfactorymanager:BlockCableName",
+      "name": "Inventory Cable",
+      "color": "#21202c",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "stevesfactorymanager:BlockCableOutputName",
+      "name": "Redstone Emitter",
+      "color": "#2b2a33",
+      "alpha": 1.0,
+      "meta": 0
+    },
+    {
+      "uid": "stevesfactorymanager:BlockCableRelayName",
+      "name": "Inventory Relay",
+      "color": "#382d2c",
+      "alpha": 1.0,
+      "meta": 1,
+      "variants": [
+        {
+          "name": "Advanced Inventory Relay",
+          "color": "#322b2e",
+          "meta": 9
+        },
+        {
+          "name": "Advanced Inventory Relay",
+          "color": "#2b2a33",
+          "meta": 13
+        }
+      ]
+    },
+    {
+      "uid": "stevesfactorymanager:BlockCableSignName",
+      "name": "Sign Updater",
+      "color": "#25242d",
+      "alpha": 1.0,
+      "meta": 1,
+      "variants": [
+        {
+          "color": "#2b2a33",
+          "meta": 5
+        }
+      ]
+    },
+    {
+      "uid": "stevesfactorymanager:BlockMachineManagerName",
+      "name": "Machine Inventory Manager",
+      "color": "#8e7272",
+      "alpha": 1.0,
+      "meta": 1
     },
     {
       "uid": "storagedrawers:basicDrawers",
